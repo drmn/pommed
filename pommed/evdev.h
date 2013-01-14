@@ -88,6 +88,11 @@
 #define USB_PRODUCT_ID_WELLSPRING7_ISO   0x0263
 #define USB_PRODUCT_ID_WELLSPRING7_JIS   0x0264
 
+/* Apple WellSpring VIIa keyboard + trackpad */
+#define USB_PRODUCT_ID_WELLSPRING7A_ANSI   0x0259
+#define USB_PRODUCT_ID_WELLSPRING7A_ISO    0x025a
+#define USB_PRODUCT_ID_WELLSPRING7A_JIS    0x025b
+
 /* Apple external USB keyboard, white */
 #define USB_PRODUCT_ID_APPLE_EXTKBD_WHITE   0x020c
 
